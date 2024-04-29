@@ -1,4 +1,4 @@
-# nuxt-auto-deploy
+# nuxt-auto-deploy (github-action-auto)
 
 ## Build Setup
 
